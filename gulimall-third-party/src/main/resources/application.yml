@@ -9,6 +9,11 @@ spring:
       oss:
         endpoint: oss-cn-beijing.aliyuncs.com
         bucket: gulimall-lnj
+      sms:
+        host: http://yzx.market.alicloudapi.com
+        path: /yzx/sendSms
+        tpl_id: TP1710262
+        appcode: 7c1ae428359146b09c80f72cc53ca893
   application:
     name: gulimall-third-party
 server:
