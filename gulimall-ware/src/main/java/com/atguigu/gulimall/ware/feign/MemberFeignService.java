@@ -15,6 +15,6 @@ public interface MemberFeignService {
      * @return
      */
     @RequestMapping("/member/memberreceiveaddress/info/{id}")
-    R info(@PathVariable("id") Long id);
+    R addrInfo(@PathVariable("id") Long id);
 
 }

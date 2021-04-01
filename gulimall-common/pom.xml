@@ -104,6 +104,11 @@
             <scope>provided</scope>
         </dependency>
 
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-seata</artifactId>
+        </dependency>
+
         <!--        服务注册/发现-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>

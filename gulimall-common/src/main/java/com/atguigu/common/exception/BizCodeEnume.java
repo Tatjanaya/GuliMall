@@ -10,6 +10,7 @@ package com.atguigu.common.exception;
  * 13 购物车
  * 14 物流
  * 15 用户
+ * 21 库存
  */
 public enum BizCodeEnume {
     UNKNOW_EXCEPTION(10000,"系统未知异常"),
