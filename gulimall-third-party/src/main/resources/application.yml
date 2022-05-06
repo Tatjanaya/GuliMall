@@ -4,16 +4,16 @@ spring:
       discovery:
         server-addr: 127.0.0.1:8848
     alicloud:
-      access-key: LTAI4GFAafmwwXs
-      secret-key: oppmHsjY7A0rN9ma7
+      access-key: L
+      secret-key: o
       oss:
         endpoint: oss-cn-beijing.com
-        bucket: gulimall-lnj
+        bucket: g
       sms:
-        host: cloudapi.com
+        host: c
         path: /yzx/sendSms
-        tpl_id: TP1710262
-        appcode: 7c1ae428359146b09c80f72cc53ca893
+        tpl_id: T
+        appcode: 7
   application:
     name: gulimall-third-party
 server:
